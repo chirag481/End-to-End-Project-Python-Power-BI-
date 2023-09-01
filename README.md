@@ -1,5 +1,5 @@
 # End-to-End-Project-Python-Power-BI
-#Bird Strikes in USA by FAA between 2000-2011.
+# Bird Strikes in USA by FAA between 2000-2011.
 bird_strike.jpeg
 
 Dataset:
@@ -46,20 +46,17 @@ A bird strike is strictly defined as a collision between a bird and an aircraft 
 
 Conclusions
 
+47.40% incidents happended when sky condition was no cloud 
+
 42.72% incidents where pilot was warned about the birds
 
 Prior warning to the pilot reduces the risk of damage to the aircraft
 
-52.78% of incidents have happened due to some small unknown bird.
-
-72.9% incidents have happened when there is 1 bird/wildlife is struck in the airplane and caused damage.
+75.80% of incidents have happened due to some small unknown bird.
 
 90.31% incidents caused no damage while 9.69% incidents caused damage
 
-80.84% of bird strike incidents have happened when the altitude of airplane was <1000 ft and 19.16% have happened when altitude was >1000 ft.
-
-
-
+87% of bird strike incidents have happened when the altitude of airplane was <1000 ft and 13% have happened when altitude was >1000 ft.
 
 
 
